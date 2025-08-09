@@ -76,19 +76,24 @@ CORS:
 For Software:
 
 # Screenshots (Add at least 3)
+
+### Initial Webpage
 ![Screenshot2](templates/Ui.jpg)
 
+
+### Started Tracking
 ![Screenshot1](templates/UI1.jpg)
 
+### Plane Detected
 ![Screenshot3](templates/ui3.jpg)
 
 
 # Diagrams
 Workflow
-![Screenshot3](templates/workflow.png)
+![Screenshot3](templates/workfloww.png)
 
 
 
 ## Team Contributions
 - Binil Babu P: Backend FastAPI endpoint design,React frontend UI/UX, compass visualization, geolocation/notifications
-- Darwin T D: OpenSky integration, API error handling, CORS configuration.
+- Darwin T D: OpenSky integration, API error handling, CORS configuration, Github repo.
