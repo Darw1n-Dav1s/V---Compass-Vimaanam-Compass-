@@ -1,4 +1,4 @@
-# V-Compass 🎯
+# V-Compass ( Vimaanam Compass )
 
 ## Basic Details
 ### Team Name: Darbi
@@ -8,13 +8,25 @@
 - Member 2:  Darwin T D- [Vidya Academy of Science and Technology]
 
 ### Project Description
-V-Compass is a playful web app that points a stylish compass toward passing planes overhead and alerts when one is nearby. It uses a FastAPI backend to fetch aircraft data from OpenSky and a React frontend to visualize direction and play audio cues for where to look.
+V-Compass is your personal sky-watcher, a web application designed to bring back the simple joy of plane spotting. It uses live flight data and your location to find aircraft passing overhead, helping you reconnect with a forgotten sense of wonder.
+
 
 ### The Problem (that doesn't exist)
-People outdoors keep craning their necks randomly, missing the grand airplane fly-by moment.
+In our busy modern lives, we often forget to look up. We don't have the time to constantly watch the skies, and even when we do, we can easily miss the silent planes gliding far above. This means we're missing out on a simple, freely available happiness—a small moment of wonder in an otherwise hectic day.
+
 
 ### The Solution (that nobody asked for)
-A compass that literally points the way to the plane, beeps out the direction, and pops a notification when a flight is close enough to gawk at.
+V-Compass actively watches the skies for you. It solves the problem by:
+
+Notifying You: It sends an alert when a plane is nearby, so you don't have to remember to look.
+
+Guiding You: A simple on-screen compass points you in the exact direction, removing the guesswork.
+
+Speaking to You: A single tap can provide a verbal cue, like "Look North," making it effortless to find the aircraft.
+
+By doing the work of finding the plane, V-Compass lets you simply enjoy the moment of spotting it, ensuring you never miss your happiness again.
+
+
 
 ## Technical Details
 ### Technologies/Components Used
