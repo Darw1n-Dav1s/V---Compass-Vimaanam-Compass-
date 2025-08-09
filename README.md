@@ -84,39 +84,11 @@ For Software:
 
 
 # Diagrams
+Workflow
+![Screenshot3](templates/workflow.png)
 
-![Screenshot3](templates/ui3.jpg)
 
-
-For Hardware:
-- Not applicable
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Not applicable.*
-
-![Schematic](Add your schematic diagram here)
-*Not applicable.*
-
-# Build Photos
-![Components](Add photo of your components here)
-*Not applicable.*
-
-![Build](Add photos of build process here)
-*Not applicable.*
-
-![Final](Add photo of final product here)
-*Not applicable.*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Shows starting tracking, granting location/notification permissions, compass rotation when planes are nearby, and the alert card popup with audio directions.*
-
-# Additional Demos
-- Optional: Short clip demonstrating direction audio sequence for different bearings.
-- Optional: Demo comparing mock mode vs. live data mode.
 
 ## Team Contributions
-- Darwin T D: Backend FastAPI endpoint design, OpenSky integration, API error handling, CORS configuration.
-- Binil Babu P: React frontend UI/UX, compass visualization, geolocation/notifications
+- Binil Babu P: Backend FastAPI endpoint design,React frontend UI/UX, compass visualization, geolocation/notifications
+- Darwin T D: OpenSky integration, API error handling, CORS configuration.
