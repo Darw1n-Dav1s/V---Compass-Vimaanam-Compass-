@@ -76,18 +76,17 @@ CORS:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Home screen showing V-Compass title, status text, and the compass UI.*
+![Screenshot2](templates/Ui.jpg)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Tracking active: compass needle oriented toward a detected plane.*
+![Screenshot1](templates/UI1.jpg)
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Plane notification card showing callsign, altitude, speed, and the “Tell Me Where to Look” button.*
+![Screenshot3](templates/ui3.jpg)
+
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Flow: Browser gets geolocation → Frontend requests /api/planes → FastAPI fetches OpenSky states → Frontend filters by distance/altitude → Compass + notification update → Optional audio cue playback.*
+
+![Screenshot3](templates/ui3.jpg)
+
 
 For Hardware:
 - Not applicable
